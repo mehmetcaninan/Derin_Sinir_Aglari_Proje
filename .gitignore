@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pycache/
+.venv/
+.DS_Store
+.idea/
+.vscode/
+
+data/
+models/
+*.pt
+*.pth
+
+.streamlit/
+

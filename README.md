@@ -1,5 +1,5 @@
 # Görüntü Tabanlı Karakter Tanıma ve Braille Dönüştürme
-# Derse ait ödev ve görevlere erişmek için github hesabımda Derin_Sinir_Aglari reposunu inceleyebilirsiniz
+# Derse ait ödev ve görevlere erişmek için github hesabımda Derin_Sinir_Aglari reposunu inceleyebilirsiniz, proje dosyalarının bulunduğu bu repoda da ödev dosyaları mevcuttur. sonradan eklenmiştir.
 Bu repo; bir görüntüden karakterleri **tek tek** tespit edip (basit segmentasyon), her karakteri bir **CNN sınıflandırıcı** ile tanıyıp, ortaya çıkan metni **Unicode Braille** karakterlerine dönüştüren bir prototip içerir.
 
 ## Kurulum
